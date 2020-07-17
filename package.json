@@ -86,7 +86,7 @@
     "jsonwebtoken": "8.5.1",
     "klaw": "3.0.0",
     "knex": "0.17.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "markdown-it": "8.4.2",
     "markdown-it-abbr": "1.0.4",
     "markdown-it-anchor": "5.2.3",
