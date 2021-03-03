@@ -137,7 +137,7 @@
     "pg-hstore": "2.3.2",
     "pg-query-stream": "2.0.0",
     "pg-tsquery": "8.0.4",
-    "pug": "2.0.3",
+    "pug": "3.0.1",
     "qr-image": "3.2.0",
     "raven": "2.6.4",
     "remove-markdown": "0.3.0",
