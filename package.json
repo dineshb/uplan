@@ -219,7 +219,7 @@
     "filepond-plugin-file-validate-type": "1.2.4",
     "filesize.js": "1.0.2",
     "grapesjs": "0.14.61",
-    "graphiql": "0.13.0",
+    "graphiql": "1.4.7",
     "graphql-persisted-document-loader": "1.0.1",
     "graphql-tag": "^2.10.1",
     "graphql-voyager": "1.0.0-rc.27",
