@@ -148,7 +148,7 @@
     "scim-query-filter-parser": "1.1.0",
     "semver": "6.1.1",
     "serve-favicon": "2.5.0",
-    "simple-git": "1.113.0",
+    "simple-git": "3.5.0",
     "solr-node": "1.2.1",
     "sqlite3": "4.0.8",
     "striptags": "3.1.1",
