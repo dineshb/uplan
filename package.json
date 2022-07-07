@@ -103,7 +103,7 @@
     "markdown-it-task-lists": "2.1.1",
     "mathjax-node": "2.1.1",
     "mime-types": "2.1.24",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.25",
     "mongodb": "3.2.6",
     "mssql": "5.1.0",
