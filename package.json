@@ -255,7 +255,7 @@
     "style-loader": "0.23.1",
     "stylus": "0.54.5",
     "stylus-loader": "3.0.2",
-    "terser": "4.0.0",
+    "terser": "4.8.1",
     "twemoji-awesome": "1.0.6",
     "url-loader": "1.1.2",
     "vee-validate": "2.2.9",
