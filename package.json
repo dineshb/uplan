@@ -65,7 +65,7 @@
     "express": "4.17.1",
     "express-brute": "1.0.1",
     "express-session": "1.16.1",
-    "file-type": "11.1.0",
+    "file-type": "16.5.4",
     "filesize": "4.1.2",
     "fs-extra": "8.0.1",
     "getos": "3.1.1",
